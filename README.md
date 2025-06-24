@@ -2,7 +2,7 @@
 
 Questo progetto dimostra l’uso combinato di **Bash** e **Python (Jupyter Notebook)** per:
 - Scaricare o gestire localmente un archivio `.tgz`
-- Eseguire una semplice analisi in Python tramite notebook
+- esercizio confronto tra covarianza numerica e teorica su multipoli pari
 
 ---
 
@@ -10,7 +10,8 @@ Questo progetto dimostra l’uso combinato di **Bash** e **Python (Jupyter Noteb
 
  File                      | Descrizione                            
 
- `download_and_extract.sh` | Script Bash per scaricare ed estrarre un archivio `.tgz`  `ESAME_PARITI_test1.ipynb`| Esercizio di esame – Test 1            
+ `download_and_extract.sh` | Script Bash per scaricare ed estrarre un archivio `.tgz`    
+ `ESAME_PARITI_test1.ipynb`| Esercizio di esame – Test 1            
  `ESAME_PARITI_test2.ipynb`| Esercizio di esame – Test 2           
  `ESAME_PARITI_test3.ipynb`| Esercizio di esame – Test 3           
 
